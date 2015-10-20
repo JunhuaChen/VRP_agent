@@ -2369,7 +2369,7 @@ float g_UpperBoundGeneration(int LR_Iteration_no)
 				true);
 			g_vehicle_path_cost[v] = path_cost_by_vehicle_v;
 
-			fprintf(g_pFileDebugLog, "\Upper bound: Vehicle %d'  path has %d nodes with a transportation cost of %f and travel time of %d: ",
+			fprintf(g_pFileDebugLog, "\\Upper bound: Vehicle %d'  path has %d nodes with a transportation cost of %f and travel time of %d: ",
 				v,
 				g_vehicle_path_number_of_nodes[v],
 				g_vehicle_path_cost[v],
