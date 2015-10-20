@@ -1,0 +1,45 @@
+number of nodes =,9
+number of links =,22
+number of passengers=, 35
+number of vehicles =,10
+Least Travel Time for Pax,Pax 1,Pax 2,Pax 3,Pax 4,Pax 5,Pax 6,Pax 7,Pax 8,Pax 9,Pax 10,Pax 11,Pax 12,Pax 13,Pax 14,Pax 15,Pax 16,Pax 17,Pax 18,Pax 19,Pax 20,Pax 21,Pax 22,Pax 23,Pax 24,Pax 25,Pax 26,Pax 27,Pax 28,Pax 29,Pax 30,Pax 31,Pax 32,Pax 33,Pax 34,Pax 35,
+,6.00,6.00,6.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,5.00,99942.00,99933.00,99921.00,99909.00,5.00,5.00,99939.00,99921.00,99909.00,
+Modified Vehilce Time,begining, endinging
+virtual1129,111
+virtual1256,138
+virtual1380,162
+virtual1427,107
+virtual1533,113
+virtual1642,122
+virtual1767,147
+virtual1853,133
+virtual1959,139
+virtual2065,145
+virtual2177,157
+virtual2281,161
+virtual2382,162
+virtual2485,165
+virtual2597,177
+virtual2650,130
+virtual2768,148
+virtual2829,109
+virtual2935,115
+virtual3059,139
+virtual3150,130
+virtual3227,107
+virtual3334,114
+virtual3447,127
+virtual3559,139
+virtual3678,158
+virtual3747,200001
+virtual3856,199992
+virtual3968,199980
+virtual4080,199968
+virtual4144,124
+virtual4280,160
+virtual4350,199998
+virtual4468,199980
+virtual4580,199968
+Reduced Search Space Perc for Veh,Veh 1,Veh 2,Veh 3,Veh 4,Veh 5,Veh 6,Veh 7,Veh 8,Veh 9,Veh 10,Veh 11,Veh 12,Veh 13,Veh 14,Veh 15,Veh 16,Veh 17,Veh 18,Veh 19,Veh 20,Veh 21,Veh 22,Veh 23,Veh 24,Veh 25,Veh 26,Veh 27,Veh 28,Veh 29,Veh 30,Veh 31,Veh 32,Veh 33,Veh 34,Veh 35,Veh 36,Veh 37,Veh 38,Veh 39,Veh 40,Veh 41,Veh 42,Veh 43,Veh 44,Veh 45,
+,53.16%,53.16%,53.16%,53.16%,53.16%,53.16%,53.16%,53.16%,53.16%,53.16%,20.25%,20.25%,20.25%,20.25%,20.25%,20.25%,20.25%,20.25%,20.25%,20.25%,20.25%,20.25%,20.25%,20.25%,20.25%,53.16%,53.16%,53.16%,53.16%,53.16%,53.16%,45.57%,45.57%,45.57%,45.57%,45.57%,0.00%,53.16%,53.16%,53.16%,53.16%,53.16%,53.16%,53.16%,53.16%,
+,
